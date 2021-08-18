@@ -1,5 +1,6 @@
 # FoxTrot-Fitness
-Please reach out to me on LinkedIn if you'd like to access the code. 
+Please reach out to me on LinkedIn if you'd like to access the code.
+https://www.linkedin.com/in/a-ismail/
 
 Main goal of app is to help people reach their own personal fitness goals either by participating in community fitness events or setting your own events/goals. Community events can be any activity type eg Cycling, Walking, Running, Swimming etc. On the landing page you can view current events and if you'd like to participate you would be redirected to log in or register as new user. Once signed up you would then have access to your own dashboard where you can log your activity, sign up for events, set new goals and even create new events. Once signed in you can see your progess against other individuals within that event(a leaderboard) and be motivated to reach your own goals by contributing to community goals.
 
